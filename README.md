@@ -1,5 +1,7 @@
 # The DAO
 
+[![Join the chat at https://gitter.im/AnthonyAkentiev/DAO](https://badges.gitter.im/AnthonyAkentiev/DAO.svg)](https://gitter.im/AnthonyAkentiev/DAO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## What is it?
 A Standard DAO (Decentralized Autonomous Organization) framework written in Solidity to run on the Ethereum blockchain. 
